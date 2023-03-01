@@ -2,7 +2,6 @@
 
 ## rvm
 
-### rvm
+**bold**
 
-
-[www.google.com]
+<sub>subscript</sub>
